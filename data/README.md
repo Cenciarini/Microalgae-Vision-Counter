@@ -30,6 +30,7 @@ Este dataset fue desarrollado como parte de la tesis de grado en Ingeniería Mec
 
 ## 4. Dataset Structure
 
+```text
 /
 ├── images/
 │   ├── train/          # 70% de los datos
@@ -39,6 +40,7 @@ Este dataset fue desarrollado como parte de la tesis de grado en Ingeniería Mec
     ├── train/          # Archivos de anotación correspondientes
     ├── val/
     └── test/
+```
 
 ## 5. Statistical Representative & Bias
 
