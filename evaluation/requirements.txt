@@ -1,0 +1,7 @@
+matplotlib==3.10.8
+numpy==2.4.4
+pandas==3.0.2
+pingouin==0.5.5
+scipy==1.17.1
+seaborn==0.13.2
+statsmodels==0.14.6
