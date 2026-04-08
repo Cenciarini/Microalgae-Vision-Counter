@@ -44,7 +44,7 @@ Este dataset fue desarrollado como parte de la tesis de grado en Ingeniería Mec
 
 ## 5. Statistical Representative & Bias
 
-Las imágenes fueron capturadas utilizando dos celulares diferentes y dos niveles de enfoque distintos. Aún así, este es el dataset original. Se aplicaron técnicas de aumento de datos propias de la red neuronal seleccionada para el entrenamiento del modelo, con el objetivo de mejorar la robustez del mismo. Para obtener más información sobre las técnicas de aumento de datos empleadas, dirigirse al archivo 'hyp.yaml' que se encuentra en el repositorio de GitHub del proyecto.
+Las imágenes fueron capturadas utilizando dos celulares diferentes y dos niveles de enfoque distintos. Aún así, este es el dataset original. Se aplicaron técnicas de aumento de datos propias de la red neuronal seleccionada para el entrenamiento del modelo, con el objetivo de mejorar la robustez del mismo. Para obtener más información sobre las técnicas de aumento de datos empleadas, dirigirse al archivo 'hyp.yaml' que acompaña este README.
 
 ## 6. Download
 
