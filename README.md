@@ -22,7 +22,8 @@ La arquitectura del proyecto separa la lógica de producción, los activos de in
 
 ```text
 ├── data/
-│   └── README.md           # Incluye el link y descripción del dataset.
+│   ├── README.md           # Incluye el link y descripción del dataset.
+│   └── hyp.yaml            # Hiperparametros del modelo entrenado
 ├── docs/
 │   ├── Tesis_Cenciarini.pdf
 │   └── Manual_Usuario.pdf
