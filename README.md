@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ## 📦 Distribución (Versión Portable)
 
-Para usuarios finales o evaluadores que requieran una prueba rápida sin configurar un entorno de Python, se encuentra disponible una versión **portable (.exe)** en la sección de [Releases]() de este repositorio.
+Para usuarios finales o evaluadores que requieran una prueba rápida sin configurar un entorno de Python, se encuentra disponible una versión **portable (.exe)** en la sección de [Releases](https://github.com/Cenciarini/Microalgae-Vision-Counter/releases/tag/v1.0.0) de este repositorio.
 
 - **Incluye:** Pesos del modelo, librerías de inferencia y manual de usuario embebido.
 
