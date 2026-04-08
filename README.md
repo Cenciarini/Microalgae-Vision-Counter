@@ -106,7 +106,7 @@ Los resultados detallados y los gráficos correspondientes se encuentran en la c
 
 # ⚖️ Licencia
 
-**Código Fuente:** Apache License 2.0 .
+**Código Fuente:** [Apache License 2.0](https://github.com/Cenciarini/Microalgae-Vision-Counter/blob/main/LICENSE).
 
 **Documentación y Tesis:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - Atribución, No Comercial, Sin Obra Derivada.
 
